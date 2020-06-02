@@ -60,6 +60,12 @@ article img {
   background-color: #1c5380;
   border: 1px solid #06365f;
   border-radius: 2px;
+  transition: all 0.5s;
+}
+.button:hover {
+  background-color: green;
+  color: black;
+
 }
 .button p a {
   color: white;
